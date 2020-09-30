@@ -1,27 +1,30 @@
-# PrintifyHomeworkFe
+# Printify Frontend Homework 2.0
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+Your task is to create a Printify blueprints page MVP version in 1h 
 
-## Development server
+## High level overview structure of the app
+- Home is a page with a Blueprint card grid
+- Home page has a search component
+- Blueprint page has some details about the blueprint
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## API
+* Get all Blueprints API: https://run.mocky.io/v3/9ac6fd1c-e636-4f54-9764-5941632338c7
+* Get 1 Blueprint API: https://run.mocky.io/v3/2a343350-d27f-461f-af63-c2247cde3251?id=${id}
 
-## Code scaffolding
+## Mockups for inspiration - TBD
+Screenshot 1
+Screenshot 2
+Screenshot 3
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Requirements
+1. Request are done using Printify mock API 
+2. Clicking blueprints should open the blueprints page
+3. Blueprints page has a list of print providers with a send to production button that redirects back to blueprints page
+4. Blueprints page can be filtered with a search input
+5. No search result shows an empty search result message
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Notes
+- Styles are not important. Focus on business logic.
+- You don't have to finish 100% of the requirements.
+- Googling is allowed
+- Pair programming (with minimal help from us) is allowed

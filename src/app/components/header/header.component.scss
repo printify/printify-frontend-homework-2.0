@@ -1,13 +1,11 @@
-$printifyGreen: #39B75D;
+@import '../../../variables.scss';
 
 :host {
   display: flex;
   justify-content: center;
   padding: .5em 1em;
   background-color: #fff;
-  width: 100%;
   top: 0;
-  z-index: 10;
   background-color: #fff;
   border-bottom: 1px solid #e2e2e2;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.04);
