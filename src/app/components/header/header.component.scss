@@ -1,0 +1,43 @@
+$printifyGreen: #39B75D;
+
+:host {
+  display: flex;
+  justify-content: center;
+  padding: .5em 1em;
+  background-color: #fff;
+  width: 100%;
+  top: 0;
+  z-index: 10;
+  background-color: #fff;
+  border-bottom: 1px solid #e2e2e2;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.04);
+  height: 3em;
+}
+
+.innerContainer {
+  max-width: 960px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logoContainer {
+  flex: 3;
+
+  @media (max-width: 768px) {
+    flex: 2;
+  }
+
+}
+
+#logo {
+  max-height: 100%;
+}
+
+.navContainer {
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+  grid-gap: .5em;
+  flex: 1;
+}

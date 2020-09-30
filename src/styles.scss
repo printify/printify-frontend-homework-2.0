@@ -1,1 +1,42 @@
-/* You can add global styles to this file, and also import other style files */
+@import "./variables.scss";
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.link {
+    cursor: pointer;
+    color: $link-color;
+    transition: all 0.15s ease;
+    text-decoration: none;
+    outline: none;
+    
+    i {
+        color: inherit;
+    }
+    
+    &:hover {
+        color: $link-hover-color;
+    }
+    
+    &--secondary {
+        @extend .link;
+        color: $link-secondary-color;
+        
+        &:hover {
+            color: $link-hover-color;
+        }
+    }
+    
+    &--alternative {
+        @extend .link;
+        color: $nobel;
+        
+        &:hover {
+            color: $link-hover-color;
+        }
+    }
+}

@@ -1,0 +1,151 @@
+// colors
+
+// main
+$chateauGreen: #319e50;
+$mediumSeaGreen: #39b75d;
+$vistaBlue: #84dba5;
+
+$midnightExpress: #192342;
+$licorice: #1b1b1b;
+$nobel: #949494;
+$silver: #c2c2c2;
+$whisper: #ebebeb;
+$white: #ffffff;
+
+$grey-00: $white;
+$grey-20: #f7f7f7;
+$grey-30: #e3e4e5;
+$grey-40: #c4c7c8;
+$grey-50: #9fa4a5;
+$grey-60: #757c7e;
+$grey-70: #485256;
+$grey-80: #17262b;
+
+$blue-00: #e1eff9;
+$blue-20: #8ec3e8;
+$blue-40: #4198d8;
+$blue-60: #3682be;
+$blue-80: #2b6ca3;
+$blue-100: #1e5180;
+
+$purple-00: #e8e6f7;
+$purple-20: #ada2e2;
+$purple-40: #7763cf;
+$purple-60: #6554ad;
+$purple-80: #52448a;
+$purple-100: #403568;
+
+$yellow-00: #faf7d7;
+$yellow-20: #f8dd8a;
+$yellow-40: #f5c242;
+$yellow-60: #dca437;
+$yellow-80: #c3862c;
+$yellow-100: #9e591c;
+
+$red-00: #fce7e3;
+$red-20: #f199a0;
+$red-40: #e8425a;
+$red-60: #ce364f;
+$red-80: #b32b44;
+$red-100: #991f39;
+
+$green-00: #e2f7e3;
+$green-20: #77df95;
+$green-40: #18c75a;
+$green-60: #29ab51;
+$green-80: #248e4c;
+$green-100: #1f6b45;
+
+// secondary
+$premium-green: #203741;
+$navy: #0f007d;
+$mediumBlue: #1d1cd3;
+$portage: #8d95e5;
+
+$mandy: #bc4640;
+$carissma: #d8504a;
+$sundown: #ffacac;
+
+$denim: #1a79c5;
+$dodgerBlue: #2097f6;
+$pattensBlue: #d2eafd;
+
+$sunflower: #f56a0b;
+$goldenYellow: #faaf00;
+$gold: #ffd700;
+$chinaIvory: #fff4cc;
+
+// input
+$input-border-color: $silver;
+$input-text-color: $licorice;
+$input-placeholder-color: $nobel;
+$input-label-color: $nobel;
+$input-focus-border-color: $chateauGreen;
+$input-label-background-color: $white;
+$input-label-focus-color: $chateauGreen;
+$input-label-error-color: $carissma;
+$input-message-color: $nobel;
+$input-message-error-color: $carissma;
+$input-error-border-color: $carissma;
+
+// tabs
+$tab-text-color: $licorice;
+$tab-text-active-color: $chateauGreen;
+$tab-indicator-color: $chateauGreen;
+$tab-border-color: $silver;
+
+// menu
+$menu-background-color: $white;
+$menu-divider-color: $whisper;
+$menu-item-active-background-color: $mediumSeaGreen;
+$menu-item-active-color: $white;
+$menu-item-color: $licorice;
+$menu-item-border-color: $silver;
+
+// link
+$link-color: $mediumSeaGreen;
+$link-hover-color: $chateauGreen;
+$link-secondary-color: $licorice;
+
+// toast
+$toast-bg: $licorice;
+$toast-text-color: $white;
+
+// tab
+$tab-color: $licorice;
+$tab-active-color: $chateauGreen;
+$tab-border-color: $silver;
+
+$grid-gutter-sm: 8px;
+$grid-gutter-md: 12px;
+$grid-gutter-lg: 16px;
+
+// other
+$loading-gradient: linear-gradient(90.29deg, rgba(255, 255, 255, 0.6) 0.31%, rgba(255, 255, 255, 0) 99.81%), $whisper;
+$background-overlay: rgba(53, 58, 71, 0.5);
+
+// fonts
+$icon-font: 'Material Icons';
+
+@mixin material-icons {
+    font-family: $icon-font;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+    color: $nobel;
+}
