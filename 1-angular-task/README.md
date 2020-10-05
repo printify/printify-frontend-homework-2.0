@@ -13,18 +13,6 @@ Your task is to create a Printify blueprints page MVP version in 1h
 - Home page has a search component
 - Blueprint page has some details about the blueprint
 
-## Mockups for inspiration
-<small>These are only for a high level overview of the expected structure. Business logic is priority.</small>
-
-### Blueprint grid
-![Blueprint grid](blueprint_grid.png)
-### Blueprint page
-![Blueprint page](blueprint_page.png)
-### No results search
-![No results search](no_results_search.png)
-### Found match search
-![Found match search](found_match_search.png)
-
 ## Implementation steps
 ### Part 1 - Grid component with search
 1. Get blueprints using the according Printify mock API below
@@ -36,6 +24,18 @@ Your task is to create a Printify blueprints page MVP version in 1h
 2. Clicking a blueprint on the blueprint grid should open the blueprint page
 3. A blueprint page has details about the blueprint. (_In this case the API for 1 blueprint always returns the same blueprint i.e. the blueprint page will always have the same blueprint data_)
 4. Blueprint page has a button to return to the homepage e.g. "Send to production"
+
+## Mockups for inspiration
+<small>These are only for a high level overview of the expected structure. Business logic is priority.</small>
+
+### Blueprint grid
+![Blueprint grid](blueprint_grid.png)
+### Blueprint page
+![Blueprint page](blueprint_page.png)
+### No results search
+![No results search](no_results_search.png)
+### Found match search
+![Found match search](found_match_search.png)
 
 ## API
 * Get all Blueprints: https://run.mocky.io/v3/b9e8f542-9816-4175-9165-9d65a8a481e7
