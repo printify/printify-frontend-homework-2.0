@@ -16,21 +16,26 @@ Your task is to create a Printify blueprints page MVP version in 1h
 ## Mockups for inspiration
 <small>These are only for a high level overview of the expected structure. Business logic is priority.</small>
 
-#### Blueprint grid
+### Blueprint grid
 ![Blueprint grid](blueprint_grid.png)
-#### Blueprint page
+### Blueprint page
 ![Blueprint page](blueprint_page.png)
-#### No results search
+### No results search
 ![No results search](no_results_search.png)
-#### Found match search
+### Found match search
 ![Found match search](found_match_search.png)
 
-## Requirements
-1. Request are done using Printify mock API below
-2. Clicking a blueprint should open the blueprint page
+## Implementation steps
+### Part 1 - Grid component with search
+1. Get blueprints using the according Printify mock API below
+2. Blueprints grid can be filtered with a search input
+3. No search result shows an empty search result message
+
+### Part 2 (Optional) - Blueprint page
+1. Get a blueprint using the according Printify mock API below
+2. Clicking a blueprint on the blueprint grid should open the blueprint page
 3. A blueprint page has details about the blueprint. (_In this case the API for 1 blueprint always returns the same blueprint i.e. the blueprint page will always have the same blueprint data_)
-4. Blueprints grid can be filtered with a search input
-5. No search result shows an empty search result message
+4. Blueprint page has a button to return to the homepage e.g. "Send to production"
 
 ## API
 * Get all Blueprints: https://run.mocky.io/v3/b9e8f542-9816-4175-9165-9d65a8a481e7
@@ -38,7 +43,7 @@ Your task is to create a Printify blueprints page MVP version in 1h
 * Get 500 error for "Get all Blueprints": https://run.mocky.io/v3/f9f98624-f1ad-4781-91cd-477baa05af34
 
 ## Notes
-- Styles are not important. Focus on business logic.
+- Focus on business logic. Styles are secondary.
 - You don't have to finish 100% of the requirements.
 - We value attention to details. Say this to the interviewer "It's not rocket science"
 - Googling is allowed
