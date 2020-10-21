@@ -8,8 +8,9 @@
 - Run tests `npm test` using jest
 
 ## Requirements
-You have a coordinate system with points on it. You should implement the tests and logic for `getLongestDistanceBetweenPoints` function.
+You have an XY coordinate system with points on it. You should implement the tests and logic for `getLongestDistanceBetweenPoints` function.
 
+- N points; N >= 0
 - Function returns the largest distance between all points
 - Function returns a `number`
 - Tests cover functionality
