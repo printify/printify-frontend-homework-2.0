@@ -1,0 +1,13 @@
+<app-search *ngIf="!!productsList.length" (onsearch)="filterList($event)"></app-search>
+<h2>Men's clothing</h2>
+<h3>T-shirts</h3>
+<div class="catalog-wrapper">
+  <div class="products-list-wrapper" *ngIf="filteredList.length">
+    <div class="product" *ngFor="let product of filteredList">
+      <p>{{ product.name }}</p>
+    </div>
+  </div>
+  <div class="empty" *ngIf="!filteredList.length && !!productsList.length">
+    Ooops, no products are found!
+  </div>
+</div>
