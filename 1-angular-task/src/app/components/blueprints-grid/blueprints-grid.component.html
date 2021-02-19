@@ -1,0 +1,11 @@
+<ng-container *ngIf="blueprints?.length else noResults">
+  <div *ngFor="let blueprint of blueprints">
+    <div>
+      <strong>{{ blueprint.name }}</strong>
+    </div>
+  </div>
+</ng-container>
+
+<ng-template #noResults>
+  No results found
+</ng-template>
