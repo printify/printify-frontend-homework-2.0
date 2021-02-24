@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "printify-homework-fe"
+    }
+  },
+  "defaultProject": "printify-homework-fe",
+  "cli": {
+    "analytics": false
+  }
 }
