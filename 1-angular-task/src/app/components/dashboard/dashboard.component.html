@@ -1,0 +1,16 @@
+<section class="wrapper search-ui">
+  <input (keyup)="handleUserInput($event)" placeholder="Search..."/>
+</section>
+
+<section class="wrapper" >
+
+<ng-container *ngIf="((blueprintItems$ | async) | filter: (query$ | async)) as result">
+
+  <div *ngFor="let item of result">
+    {{item.name}}
+  </div>
+
+  <p *ngIf="!result.length">No results for: <strong>{{query$ | async}}</strong> query.</p>
+
+</ng-container>
+</section>
