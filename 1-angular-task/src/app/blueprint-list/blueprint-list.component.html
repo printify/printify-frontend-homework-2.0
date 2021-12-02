@@ -1,0 +1,18 @@
+<h2>Blueprints</h2>
+
+<div>{{ filter }}</div>
+<input #filter id="search-box" (input)="filterBlueprint(filter.value)" />
+
+<ul *ngIf="blueprints.length">
+    <li *ngFor="let bl of blueprints">
+        <div>{{ bl.id }}</div>
+        <div>{{ bl.model }}</div>
+        <div>{{ bl.price }}</div>
+        <div>{{ bl.printProvider }}</div>
+        <img src="{{bl.imageUrl }}" alt="{{ bl.name }}" />
+        <a routeLink="blueprint">{{ bl.name }}</a>
+
+    </li>
+</ul>
+
+<div  *ngIf="!blueprints.length">No results were found</div>
