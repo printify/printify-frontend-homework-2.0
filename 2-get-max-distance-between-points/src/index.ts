@@ -1,3 +1,3 @@
-export function getLongestDistanceBetweenPoints() {
-  // your code
+export function getLongestDistanceBetweenPoints(): number {
+  return Infinity;
 }
