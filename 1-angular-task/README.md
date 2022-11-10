@@ -24,6 +24,18 @@ Your task is to create a Printify blueprints page MVP version in 1h
 3. A blueprint page has details about the blueprint. (_In this case the API for 1 blueprint always returns the same blueprint i.e. the blueprint page will always have the same blueprint data_)
 4. Blueprint page has a button to return to the homepage e.g. "Send to production"
 
+## API
+* Get all Blueprints: https://run.mocky.io/v3/b9e8f542-9816-4175-9165-9d65a8a481e7
+* Get 1 Blueprint: https://run.mocky.io/v3/c3a4c523-7e87-4f6f-b9a8-f501c053fd65?id=${id}
+* Get 500 error for "Get all Blueprints": https://run.mocky.io/v3/f9f98624-f1ad-4781-91cd-477baa05af34
+
+## Notes
+- Focus on business logic. Styles are secondary.
+- You don't have to finish 100% of the requirements.
+- We value attention to details. Say this to the interviewer -> "It's not rocket science"
+- Googling is allowed
+- Pair programming (with minimal help from us) is allowed
+
 ## Mockups for inspiration
 <small>These are only for a high level overview of the expected structure. Business logic is priority.</small>
 
@@ -36,14 +48,4 @@ Your task is to create a Printify blueprints page MVP version in 1h
 ### Found match search
 ![Found match search](found_match_search.png)
 
-## API
-* Get all Blueprints: https://run.mocky.io/v3/b9e8f542-9816-4175-9165-9d65a8a481e7
-* Get 1 Blueprint: https://run.mocky.io/v3/c3a4c523-7e87-4f6f-b9a8-f501c053fd65?id=${id}
-* Get 500 error for "Get all Blueprints": https://run.mocky.io/v3/f9f98624-f1ad-4781-91cd-477baa05af34
 
-## Notes
-- Focus on business logic. Styles are secondary.
-- You don't have to finish 100% of the requirements.
-- We value attention to details. Say this to the interviewer -> "It's not rocket science"
-- Googling is allowed
-- Pair programming (with minimal help from us) is allowed
