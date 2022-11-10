@@ -13,4 +13,4 @@ You have an XY coordinate system with points on it. You should implement the tes
 - N points; N >= 0
 - Function returns the largest distance between any two points
 - Function returns a `number`
-- Tests cover functionality
+- You have written tests that cover your code
