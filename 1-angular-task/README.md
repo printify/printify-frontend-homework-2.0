@@ -5,19 +5,18 @@ Your task is to create a Printify blueprints page MVP version in 1h
 ## Setup
 - Install dependencies `npm i`
 - Start with `npm start`
-- Generate components, services, etc with `ng generate` e.g. `ng generate component path/my-component` [Documentation](https://angular.io/cli/generate)
+- Generate components, services, etc with `ng generate` e.g. `npm run ng generate component path/my-component` [Documentation](https://angular.io/cli/generate)
 
 ## High level overview structure of the app
 - Header component is a prepared component. You don't have to edit it.
-- Home is a page with a Blueprint card grid
-- Home page has a search component
-- Blueprint page has some details about the blueprint
 
 ## Implementation steps
-### Part 1 - Grid component with search
-1. Get blueprints using the according Printify mock API below
-2. Blueprints grid can be filtered with a search input
-3. No search result shows an empty search result message
+### Part 1 - A page displaying blueprints that can be searched
+- Display blueprints from the endpoint in the **API** section  
+- The blueprints can be filtered using a search input. Search can be done using the blueprint name
+- No search result shows an empty result message to the user
+- The route for this blueprint list page is the root page i.e. 'http://localhost:4200'
+
 
 ### Part 2 (Optional) - Blueprint page
 1. Get a blueprint using the according Printify mock API below
@@ -45,6 +44,6 @@ Your task is to create a Printify blueprints page MVP version in 1h
 ## Notes
 - Focus on business logic. Styles are secondary.
 - You don't have to finish 100% of the requirements.
-- We value attention to details. Say this to the interviewer "It's not rocket science"
+- We value attention to details. Say this to the interviewer -> "It's not rocket science"
 - Googling is allowed
 - Pair programming (with minimal help from us) is allowed
