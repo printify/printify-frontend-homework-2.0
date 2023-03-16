@@ -1,6 +1,6 @@
 # Printify Frontend Homework 2.0
 
-Your task is to create a Printify blueprints page MVP version in 1h 
+Your task is to create a Printify blueprints page MVP version within 40 minutes 
 
 ## Setup
 - Install dependencies `npm i`
