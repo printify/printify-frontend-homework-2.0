@@ -26,8 +26,8 @@ Your task is to create a Printify blueprints page MVP version within 40 minutes
 
 ## API
 * Get all Blueprints: https://run.mocky.io/v3/26a32cf3-6998-4e1a-a80f-13c5407647b9
-* Get 1 Blueprint: https://run.mocky.io/v3/c3a4c523-7e87-4f6f-b9a8-f501c053fd65?id=${id}
-* Get 500 error for "Get all Blueprints": https://run.mocky.io/v3/f9f98624-f1ad-4781-91cd-477baa05af34
+* Get 1 Blueprint: https://run.mocky.io/v3/773715ee-7134-4999-b2bd-bef3d41a1b41?id=${id}
+* Get 500 error for "Get all Blueprints": https://run.mocky.io/v3/48713e9f-f176-47aa-8585-7005c278814d
 
 ## Notes
 - Focus on business logic. Styles are secondary.
