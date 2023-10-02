@@ -25,7 +25,7 @@ Your task is to create a Printify blueprints page MVP version within 40 minutes
 4. Blueprint page has a button to return to the homepage e.g. "Send to production"
 
 ## API
-* Get all Blueprints: https://run.mocky.io/v3/26a32cf3-6998-4e1a-a80f-13c5407647b9
+* Get all Blueprints: https://run.mocky.io/v3/3e3e7230-ed6f-4e07-984a-0c283a8cceb2
 * Get 1 Blueprint: https://run.mocky.io/v3/773715ee-7134-4999-b2bd-bef3d41a1b41?id=${id}
 * Get 500 error for "Get all Blueprints": https://run.mocky.io/v3/48713e9f-f176-47aa-8585-7005c278814d
 
