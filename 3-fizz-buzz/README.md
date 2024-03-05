@@ -2,9 +2,9 @@
 
 - You must write code that makes the unit test in `index.spec.ts` pass
 - The function in index.ts will return an array containing 100 entries starting from number 1
-- Every number divided by 3 should be `Fizz`
-- Every number divided by 5 should be `Buzz`
-- Every number divided by 3 and 5 should be `FizzBuzz`
+- Every number divided by 3 should return `Fizz`
+- Every number divided by 5 should return `Buzz`
+- Every number divided by 3 and 5 should return `FizzBuzz`
 - Return an array of the string values above or a number
 
 ## Setup
