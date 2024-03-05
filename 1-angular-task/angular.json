@@ -71,18 +71,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "printify-homework-fe:build"
+            "buildTarget": "printify-homework-fe:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "printify-homework-fe:build:production"
+              "buildTarget": "printify-homework-fe:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "printify-homework-fe:build"
+            "buildTarget": "printify-homework-fe:build"
           }
         },
         "test": {
@@ -116,5 +116,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
