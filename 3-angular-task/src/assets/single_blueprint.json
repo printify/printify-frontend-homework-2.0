@@ -1,0 +1,343 @@
+{
+    "blueprintId": 629,
+    "version": "published",
+    "brandName": "Generic brand",
+    "careSets": [
+        {
+            "set": "Lamp",
+            "icon": "",
+            "option": "If the lamp does gather any dust, you may wipe it off gently with a clean, damp cloth."
+        }
+    ],
+    "printProviders": [
+        {
+            "id": 78,
+            "minPrice": 3493,
+            "minPriceSubscription": 2691,
+            "name": "Lamp In a Box",
+            "twoDaysDeliveryEnabled": false,
+            "details": {
+                "technology": "The print provider uses technology that guarantees fade-resistant prints. Printers are equipped with inks that are eco-friendly with low VOC and are GREENGUARD Gold certified. The inks used are archival, meaning that the print will be more resistant to wearing and tearing. ",
+                "qualityControl": "Lamp bases are imported and upon unpacking the shipment, every single base gets carefully checked for any physical defects. Then print provider installs a \nlight bulb, plugs it in and inspects the on-off pull chain and any other electrical \nproblem. \nThe lampshades are inspected 3 separate times: first after printing, \nsecondly after being constructed into a lampshade (and the fabric trim \nadded) and thirdly before packing into its individual box. ",
+                "packaging": {
+                    "content": "Re-shippable tall lamp boxes have been developed in conjunction with the UPS testing lab for both keeping the lamps safe at and the same time making the box as compact as possible. Boxes are made of partly recycled board, they have instructions printed on the box itself to avoid printing an extra instruction sheet, and they can be re-used as waste-paper baskets. In addition, they come with a pop-up carrying handle for easy transportation. ",
+                    "files": [
+                        "618e4fef13086e4f70410143"
+                    ]
+                }
+            },
+            "bulkDiscountEnabled": false,
+            "averageBusinessDaysInProduction": 0.8,
+            "location": {
+                "country": "United States",
+                "countryCode": "US",
+                "isInternational": false
+            },
+            "rankingScore": 94,
+            "printPosition": [
+                {
+                    "label": "All over print",
+                    "position": "aop"
+                }
+            ],
+            "scoring": {
+                "generic_score": 7.464,
+                "quality": 7.264,
+                "production_speed": 9.857,
+                "stock_reliability": 10,
+                "courtesy": 10
+            },
+            "shipping": [
+                {
+                    "country": "United States",
+                    "additional": 374,
+                    "first": 1853,
+                    "type": "All",
+                    "method": "standard",
+                    "destinationGroupId": 541,
+                    "destinationGroupLabel": "United States",
+                    "promised_shipping_time": {
+                        "min_business_days": 2,
+                        "max_business_days": 5
+                    }
+                },
+                {
+                    "country": "Rest of World",
+                    "additional": 4774,
+                    "first": 4774,
+                    "type": "All",
+                    "method": "standard",
+                    "destinationGroupId": 0,
+                    "destinationGroupLabel": "Rest of World",
+                    "promised_shipping_time": {
+                        "min_business_days": 10,
+                        "max_business_days": 30
+                    }
+                }
+            ],
+            "minShipping": 1853,
+            "min_shipping_prices": {
+                "standard": 1853,
+                "express": null,
+                "economy": null
+            },
+            "brandingFeatures": [],
+            "facilities": [
+                {
+                    "id": 78,
+                    "country_label": "United States",
+                    "country_code": "US",
+                    "region_label": "USA",
+                    "region_code": "usa"
+                },
+                {
+                    "id": 172,
+                    "country_label": "United States",
+                    "country_code": "US",
+                    "region_label": "USA",
+                    "region_code": "usa"
+                }
+            ],
+            "tags": [],
+            "variants": [
+                {
+                    "id": 72187,
+                    "options": [
+                        2652,
+                        2666
+                    ],
+                    "available": true,
+                    "availablePrintProviders": [
+                        "Lamp In a Box"
+                    ],
+                    "status": "in-stock",
+                    "costs": [
+                        {
+                            "blank": 2341,
+                            "fee": 0,
+                            "margin": 33,
+                            "printing": 0,
+                            "placeholders": [
+                                "front"
+                            ],
+                            "result": 3493,
+                            "resultSubscription": 2691
+                        }
+                    ]
+                }
+            ],
+            "options": [
+                {
+                    "type": "size",
+                    "items": [
+                        {
+                            "id": 2652,
+                            "label": "One size"
+                        }
+                    ]
+                },
+                {
+                    "type": "color",
+                    "items": [
+                        {
+                            "id": 2666,
+                            "label": "Black",
+                            "colorGroup": {
+                                "id": 2
+                            },
+                            "colors": [
+                                {
+                                    "hex": "#000000",
+                                    "pattern": null,
+                                    "rgb": "0,0,0"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "description": "When function met aesthetics, this tripod lamp with custom-printed lamp shades was born. Featuring a galvanized steel tripod base, this lamp delivers both high-end durability and a unique decorative touch. The custom printed lamp shades can accommodate high-resolution custom prints and add your personality to your surroundings. <br/>NB! The lamp features a type A plug with two pins, which makes it suitable for the sockets used in the USA and Canada. ",
+    "details": [
+        "Galvanized steel tripod base",
+        "High-res printed shade with fabric trim",
+        "Unique option to decor your room",
+        "Type A plug with 2 flat pins - supported in the USA and Canada",
+        "100 – 127 V",
+        "Requires 13 Watt compact fluorescent or 60 Watt regular incandescent or LED equivalent bulb (not included)."
+    ],
+    "features": [
+        {
+            "name": "Fabric",
+            "description": "Polyester fabric trimming that allows contrasting and colorful high-resolution prints ",
+            "image": "59e0e88bb8e7e3174714886e/icons_v4_outlined_21_cover.svg"
+        },
+        {
+            "name": "All over print",
+            "description": "Design can be applied on the outer side (360°) of the lamp shade. ",
+            "image": "59e0e98fb8e7e3593e2ac93e/icons_v4_outlined_29_colors.svg"
+        },
+        {
+            "name": "Warm light",
+            "description": "Shade ensures warm and cozy lighting for every time of the day.",
+            "image": "5cc869735c22f9001a325215/icon_feature.svg"
+        },
+        {
+            "name": "US/CA supported plug",
+            "description": "Tripod lamp comes with a type A plug used in the United States and Canada. ",
+            "image": "59e0e9a0b8e7e30ba156dc21/icons_v4_outlined_30_hanging-hammer.svg"
+        }
+    ],
+    "hiddenTags": [
+        "Full size placeholder"
+    ],
+    "media": [
+        {
+            "src": "60c31b1732d44772654d810f",
+            "catalogPreview": [
+                "Home Decor"
+            ]
+        },
+        {
+            "src": "6345a22582f52f52fd06213a",
+            "catalogPreview": [
+                "Hover Feature"
+            ]
+        },
+        {
+            "src": "60bdbca66dcdd44c851cd43d",
+            "catalogPreview": []
+        },
+        {
+            "src": "60c08e978949856723740ec3",
+            "catalogPreview": []
+        },
+        {
+            "src": "60c32b795e89dc629146effb",
+            "catalogPreview": []
+        },
+        {
+            "src": "619d140ed73f8c39837fd9cb",
+            "catalogPreview": []
+        }
+    ],
+    "type": "home-decor",
+    "model": null,
+    "name": "Tripod Lamp with High-Res Printed Shade, US\\CA plug",
+    "custom_mockups": false,
+    "pricingPrintArea": "front",
+    "seo": {
+        "title": "Tripod Lamp with Custom Printed Lamp Shades",
+        "description": "Create your own tripod lamp with custom printed lamp shades. Robust tripod base, high-res shade printing for a unique décor style. ",
+        "socialImage": ""
+    },
+    "sizeGuide": {
+        "sizes": [
+            "One size"
+        ],
+        "types": [
+            {
+                "name": "Width (diameter)",
+                "units": "length",
+                "ranges": [
+                    {
+                        "from": "177.8",
+                        "to": ""
+                    }
+                ]
+            },
+            {
+                "name": "Height",
+                "units": "length",
+                "ranges": [
+                    {
+                        "from": "279.4",
+                        "to": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "tags": [
+        "Home & Living",
+        "Indoor",
+        "Lamp",
+        "Decor",
+        "Home Decor"
+    ],
+    "managed_tags": [
+        {
+            "id": 456,
+            "label": "Neck Labels",
+            "visible": true,
+            "promotional": false,
+            "rank": 10,
+            "icon": null
+        },
+        {
+            "id": 428,
+            "label": "Summer Picks",
+            "visible": true,
+            "promotional": false,
+            "rank": 10,
+            "icon": null
+        },
+        {
+            "id": 6,
+            "label": "Crew neck",
+            "visible": true,
+            "promotional": false,
+            "rank": 10,
+            "icon": null
+        },
+        {
+            "id": 7,
+            "label": "Cotton",
+            "visible": true,
+            "promotional": false,
+            "rank": 10,
+            "icon": null
+        },
+        {
+            "id": 5,
+            "label": "Regular fit",
+            "visible": true,
+            "promotional": false,
+            "rank": 10,
+            "icon": null
+        },
+        {
+            "id": 4,
+            "label": "DTG",
+            "visible": true,
+            "promotional": false,
+            "rank": 10,
+            "icon": null
+        },
+        {
+            "id": 3,
+            "label": "Kids' Clothing",
+            "visible": true,
+            "promotional": false,
+            "rank": 10,
+            "icon": null
+        },
+        {
+            "id": 2,
+            "label": "T-shirts",
+            "visible": true,
+            "promotional": false,
+            "rank": 10,
+            "icon": null
+        },
+        {
+            "id": 1,
+            "label": "positioner update",
+            "visible": false,
+            "promotional": false,
+            "rank": 10,
+            "icon": null
+        }
+    ]
+}

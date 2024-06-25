@@ -1,0 +1,3427 @@
+[
+  {
+    "blueprintId": 1048,
+    "version": "published",
+    "created_at": "2022-05-27T08:03:41+00:00",
+    "brandName": "Lumient",
+    "printProviderCount": 1,
+    "printProviderName": "Lumient",
+    "targetMarkets": ["USA"],
+    "minPrice": 1048,
+    "minPriceSubscription": 857,
+    "sizesCount": 1,
+    "colorsCount": 0,
+    "hiddenTags": [
+      "Full size placeholder",
+      "Bestsellers",
+      "Full size placeholder"
+    ],
+    "tags": [
+      "Home & Living",
+      "Eco-friendly",
+      "Decor",
+      "Bio",
+      "Home Decor",
+      "Holiday Picks",
+      "Made in USA",
+      "Assembled in the USA",
+      "Made in the USA",
+      "Assembled in USA",
+      "Halloween"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [
+          "Home & Living",
+          "Eco-friendly",
+          "Holiday Picks",
+          "Assembled in the USA"
+        ],
+        "src": "6274d24d08ad7168d60d9c8d"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "634d02e1cede15f61d07d2a4"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6274f97c4de6d5f41e00a64d"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6274f9444ba6f0927a055341"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6274f944a61b6432b508c69d"
+      },
+      {
+        "catalogPreview": [],
+        "src": "627d10ae65bbf8745a03421d"
+      }
+    ],
+    "model": null,
+    "name": "Scented Soy Candle, 9oz",
+    "analytics": {
+      "review_score": 4.88,
+      "trending_score": 0.357,
+      "profit_margin_score": 0.557
+    }
+  },
+  {
+    "blueprintId": 241,
+    "version": "published",
+    "created_at": "2021-09-30T13:59:56+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "MWW On Demand",
+    "targetMarkets": ["USA", "Europe"],
+    "minPrice": 1367,
+    "minPriceSubscription": 1052,
+    "sizesCount": 8,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder", "Bestsellers"],
+    "tags": [
+      "Accessories",
+      "Home & Living",
+      "All Over Print",
+      "Indoor",
+      "AOP",
+      "Tapestry",
+      "Home Decor",
+      "Accessories",
+      "Home Decor",
+      "Home & Living",
+      "Summer Picks"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "5d31c2f83b7b6007a55aeb38"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "6357da8c1a9c08d2620269fa"
+      },
+      {
+        "catalogPreview": [],
+        "src": "5bd86db5a342bc261a55d3f5"
+      },
+      {
+        "catalogPreview": [],
+        "src": "5bd86daaa342bc26a96e33c4"
+      },
+      {
+        "catalogPreview": [],
+        "src": "5ecfaaa1790e0f3fd6712e12"
+      }
+    ],
+    "model": null,
+    "name": "Indoor Wall Tapestries",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0.109,
+      "profit_margin_score": 0.525
+    }
+  },
+  {
+    "blueprintId": 976,
+    "version": "published",
+    "created_at": "2022-05-11T11:50:18+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Pic the Gift",
+    "targetMarkets": ["USA"],
+    "minPrice": 825,
+    "minPriceSubscription": 635,
+    "sizesCount": 2,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder"],
+    "tags": [
+      "Home & Living",
+      "All Over Print",
+      "Sublimation",
+      "Outdoor",
+      "AOP",
+      "Home Decor",
+      "Flag",
+      "Flags",
+      "Back-to-School",
+      "Halloween",
+      "Summer Picks"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "628ceb0b48327d73840b1e4c"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "634cf41e59217f16dd0be524"
+      },
+      {
+        "catalogPreview": [],
+        "src": "628ceb0953e9d19c1408b5cc"
+      },
+      {
+        "catalogPreview": [],
+        "src": "628ceb4748327d73840b1e4f"
+      },
+      {
+        "catalogPreview": [],
+        "src": "628ceb47569b1d0fef013934"
+      },
+      {
+        "catalogPreview": [],
+        "src": "628ceb208ea7e3a53d025a64"
+      },
+      {
+        "catalogPreview": [],
+        "src": "628ceb048ea7e3a53d025a5f"
+      },
+      {
+        "catalogPreview": [],
+        "src": "628ceb064787a5e9a602527b"
+      },
+      {
+        "catalogPreview": [],
+        "src": "628f3d518ea7e3a53d02616c"
+      },
+      {
+        "catalogPreview": [],
+        "src": "629085376da48a318e016272"
+      }
+    ],
+    "model": null,
+    "name": "Garden & House Banner",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": -0.352,
+      "profit_margin_score": 0.585
+    }
+  },
+  {
+    "blueprintId": 277,
+    "version": "published",
+    "created_at": "2021-10-18T13:22:41+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "SPOKE Custom Products",
+    "targetMarkets": ["USA"],
+    "minPrice": 2267,
+    "minPriceSubscription": 1745,
+    "sizesCount": 1,
+    "colorsCount": 3,
+    "hiddenTags": ["Full size placeholder"],
+    "tags": [
+      "Accessories",
+      "Home & Living",
+      "Indoor",
+      "Clocks",
+      "Home Decor",
+      "Home Decor",
+      "Home & Living",
+      "TikTok"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "5d0b31f347045f01ae2eeb1f"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "63458b7e232632094504c863"
+      },
+      {
+        "catalogPreview": [],
+        "src": "64ddb3974ec8c6ce1305e7c3"
+      },
+      {
+        "catalogPreview": [],
+        "src": "5fb3e00260feb8112b280b0a"
+      }
+    ],
+    "model": null,
+    "name": "Wall Clock",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0.103,
+      "profit_margin_score": 0.476
+    }
+  },
+  {
+    "blueprintId": 1039,
+    "version": "published",
+    "created_at": "2022-04-27T15:23:15+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Sensaria",
+    "targetMarkets": ["USA"],
+    "minPrice": 1935,
+    "minPriceSubscription": 1490,
+    "sizesCount": 1,
+    "colorsCount": 1,
+    "hiddenTags": [],
+    "tags": [
+      "Home & Living",
+      "Sublimation",
+      "Outdoor",
+      "Other",
+      "Home Decor",
+      "Party accessories",
+      "Summer Picks"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "62713a5dae9e71e7850a0f5d"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "634cfbe951b1ed09690975db"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62713a57ae9e71e7850a0f5a"
+      },
+      {
+        "catalogPreview": [],
+        "src": "627136aa48bb29a669061c83"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6274fdb7a61b6432b508c6a5"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6274fdbb4ba6f0927a05536c"
+      }
+    ],
+    "model": null,
+    "name": "Yard Sign",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0
+    }
+  },
+  {
+    "blueprintId": 1347,
+    "version": "published",
+    "created_at": "2023-08-24T15:40:25+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Colorway",
+    "targetMarkets": ["USA", "Australia/NZ", "United Kingdom"],
+    "minPrice": 866,
+    "minPriceSubscription": 668,
+    "sizesCount": 3,
+    "colorsCount": 0,
+    "hiddenTags": ["MOP"],
+    "tags": [
+      "Home & Living",
+      "Sublimation",
+      "AOP",
+      "Home Decor",
+      "Flag",
+      "Flags",
+      "Polyester"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "64c27c2e7b5f101ff502c61b"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "64d2485b5c041ce9af012d8e"
+      },
+      {
+        "catalogPreview": [],
+        "src": "64e73eb43da95af93907fe5e"
+      },
+      {
+        "catalogPreview": [],
+        "src": "64e73eb53da95af93907fe61"
+      }
+    ],
+    "model": null,
+    "name": "Flag",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0.479
+    }
+  },
+  {
+    "blueprintId": 755,
+    "version": "published",
+    "created_at": "2021-11-02T14:58:49+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Candlebuilders",
+    "targetMarkets": ["USA"],
+    "minPrice": 1048,
+    "minPriceSubscription": 857,
+    "sizesCount": 1,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder", "Eco-friendly"],
+    "tags": [
+      "Home & Living",
+      "Eco-friendly",
+      "Eco-friendly",
+      "Decor",
+      "Bio",
+      "Home Decor",
+      "Made in USA",
+      "Assembled in the USA",
+      "Made in the USA",
+      "Assembled in USA",
+      "Seasonal Picks",
+      "Mother's Day"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "62f502ded847556b0c055949"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "62f50532e37cbb15c305a67b"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61545049255dc63d4a7ead6b"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6154817a045cc653f779f33d"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6154817c255dc63d4a7eaf0a"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6154817e9706bc2caf5a78c1"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62f50133116fbaff810914a3"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62fca4c2ed7744ce3900db4b"
+      }
+    ],
+    "model": null,
+    "name": "Scented Candles, 9oz",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0.575,
+      "profit_margin_score": 0.572
+    }
+  },
+  {
+    "blueprintId": 1030,
+    "version": "published",
+    "created_at": "2022-04-07T12:29:56+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "MWW On Demand",
+    "targetMarkets": ["USA"],
+    "minPrice": 1243,
+    "minPriceSubscription": 958,
+    "sizesCount": 1,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder"],
+    "tags": [
+      "Home & Living",
+      "Sublimation",
+      "Indoor",
+      "Decor",
+      "Wall",
+      "Home Decor",
+      "Back-to-School",
+      "Halloween",
+      "Summer Picks"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "62569162ea39af2bfd0fe7c4"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "634cfa443b2caa56520b27c9"
+      },
+      {
+        "catalogPreview": [],
+        "src": "627e3d8574d17c39150fda17"
+      },
+      {
+        "catalogPreview": [],
+        "src": "627e3d87054c41cdf00e519c"
+      },
+      {
+        "catalogPreview": [],
+        "src": "627e3d85054c41cdf00e5199"
+      },
+      {
+        "catalogPreview": [],
+        "src": "627e3d86b025c75502060d9b"
+      },
+      {
+        "catalogPreview": [],
+        "src": "627e3d88b025c75502060d9e"
+      },
+      {
+        "catalogPreview": [],
+        "src": "627a19c5995b1d195c0dc3e0"
+      }
+    ],
+    "model": null,
+    "name": "Pennant",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": -0.16,
+      "profit_margin_score": 0.566
+    }
+  },
+  {
+    "blueprintId": 1379,
+    "version": "published",
+    "created_at": "2023-10-03T13:33:09+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Printed Mint",
+    "targetMarkets": ["USA"],
+    "minPrice": 503,
+    "minPriceSubscription": 388,
+    "sizesCount": 2,
+    "colorsCount": 3,
+    "hiddenTags": [
+      "Full size placeholder",
+      "MOP",
+      "Full size placeholder",
+      "MOP"
+    ],
+    "tags": [
+      "Home & Living",
+      "Eco-friendly",
+      "Eco-friendly",
+      "Vegan",
+      "Biodegradable",
+      "Decor",
+      "Bio",
+      "Home Decor",
+      "Made in USA",
+      "Holiday Picks",
+      "Assembled in the USA",
+      "Metallic",
+      "Metal",
+      "Made in the USA",
+      "Assembled in USA",
+      "Seasonal Picks",
+      "Home & Living",
+      "Home Decor",
+      "Holiday Picks",
+      "Decor",
+      "Made in the USA",
+      "Made in USA",
+      "Assembled in the USA",
+      "Assembled in USA",
+      "Metal",
+      "Metallic",
+      "Seasonal Picks",
+      "Bio",
+      "Biodegradable",
+      "Vegan",
+      "Valentine's Day",
+      "Spring Essentials"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "65b0edc559d928b1530ed208"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "65b0ecdcfb592b8f79072d19"
+      },
+      {
+        "catalogPreview": [],
+        "src": "65b0edc3ffb13ab8aa0bcf82"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6538f0f6ebbe0ae41d0f2165"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6538f0f49c8d2c13af0352d5"
+      },
+      {
+        "catalogPreview": [],
+        "src": "65b1038a2e3456637b0dd056"
+      },
+      {
+        "catalogPreview": [],
+        "src": "65b0ecdb002ec229e20f82ea"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6569ae4722c9da9f4e0112a2"
+      }
+    ],
+    "model": null,
+    "name": "Tin Candles",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0
+    }
+  },
+  {
+    "blueprintId": 1346,
+    "version": "published",
+    "created_at": "2023-09-18T09:02:55+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "M.i.A Merchandise",
+    "targetMarkets": ["USA"],
+    "minPrice": 2724,
+    "minPriceSubscription": 2098,
+    "sizesCount": 1,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder", "MOP"],
+    "tags": [
+      "Home & Living",
+      "Outdoor",
+      "Eco-friendly",
+      "Eco-friendly",
+      "Home Decor",
+      "Made in USA",
+      "Assembled in the USA",
+      "Made in the USA",
+      "Assembled in USA",
+      "Rugs & Mats",
+      "Outdoor"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "65081239bc909f3a5109f9fc"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "650ad470480c16f14e006b12"
+      },
+      {
+        "catalogPreview": [],
+        "src": "65015955e84e6c9bf00568e2"
+      },
+      {
+        "catalogPreview": [],
+        "src": "65015954df893167f801e013"
+      }
+    ],
+    "model": null,
+    "name": "Doormat",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0.064,
+      "profit_margin_score": 0.411
+    }
+  },
+  {
+    "blueprintId": 1099,
+    "version": "published",
+    "created_at": "2022-06-22T08:25:03+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Pic the Gift",
+    "targetMarkets": ["USA"],
+    "minPrice": 0,
+    "minPriceSubscription": 2690,
+    "sizesCount": 1,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder"],
+    "tags": ["Home & Living", "Sublimation", "Indoor", "Decor", "Home Decor"],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "62c2a5fae467419a4009af92"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "634d06f1618b7bec1806d4ea"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62be76bce467419a4009ac41"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62be770864cc6e7b3e0fff0a"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62be72f6f8aad05926018e0b"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62be72fbf8aad05926018e0f"
+      },
+      {
+        "catalogPreview": [],
+        "src": "63034ce0faf7ff4dd10e09e7"
+      }
+    ],
+    "model": null,
+    "name": "Window Curtains (1 Piece)",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0.463
+    }
+  },
+  {
+    "blueprintId": 1081,
+    "version": "published",
+    "created_at": "2023-02-08T14:27:50+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Sensaria",
+    "targetMarkets": ["USA"],
+    "minPrice": 1892,
+    "minPriceSubscription": 1457,
+    "sizesCount": 6,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder", "MOP"],
+    "tags": ["Home & Living", "Matte", "Outdoor", "Home Decor", "Festive"],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "63e650bc7a562561d70798fb"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "63e650bf7f7019112f0cc63c"
+      },
+      {
+        "catalogPreview": [],
+        "src": "63f8b77f51970a96b60aace7"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6410673e699c5f44bf0ce3ee"
+      },
+      {
+        "catalogPreview": [],
+        "src": "64106555699c5f44bf0ce3e4"
+      }
+    ],
+    "model": null,
+    "name": "Vinyl Banners",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0
+    }
+  },
+  {
+    "blueprintId": 921,
+    "version": "published",
+    "created_at": "2022-02-09T13:04:04+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Sensaria",
+    "targetMarkets": ["USA"],
+    "minPrice": 4319,
+    "minPriceSubscription": 3326,
+    "sizesCount": 13,
+    "colorsCount": 0,
+    "hiddenTags": [],
+    "tags": [
+      "Home & Living",
+      "Art & Wall Decor",
+      "Indoor",
+      "Poster",
+      "Decor",
+      "Home Decor",
+      "Made in USA",
+      "Assembled in the USA",
+      "Made in the USA",
+      "Assembled in USA"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "620f8f22daaded371340995c"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "634975f2832bcb363a0bb2cc"
+      },
+      {
+        "catalogPreview": [],
+        "src": "620f8fd4ae8a9b534e31e251"
+      },
+      {
+        "catalogPreview": [],
+        "src": "620e128765e4865fe7186ad3"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62022c040092a00e850f0abb"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6202561973dbfe16647cdc2c"
+      }
+    ],
+    "model": null,
+    "name": "Acrylic Prints",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0
+    }
+  },
+  {
+    "blueprintId": 721,
+    "version": "published",
+    "created_at": "2021-09-21T14:49:48+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Imagine Your Photos",
+    "targetMarkets": ["USA"],
+    "minPrice": 1111,
+    "minPriceSubscription": 856,
+    "sizesCount": 1,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder"],
+    "tags": [
+      "Other",
+      "Home & Living",
+      "Matte",
+      "Glossy",
+      "Other",
+      "Ceramic",
+      "Decor",
+      "Home Decor"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "6144891cf56c90338670440f"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "634cf1f3e769ab1a710f8ea4"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61448924f49f033fce7f46a3"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61448a1d4f2eb530b56e11a6"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61448a15f49f033fce7f46b3"
+      },
+      {
+        "catalogPreview": [],
+        "src": "63bc49acdb2e26eaab06eda4"
+      },
+      {
+        "catalogPreview": [],
+        "src": "63bc49a92dc149a24d0fd3e5"
+      }
+    ],
+    "model": null,
+    "name": "Ceramic Photo Tile",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0.504
+    }
+  },
+  {
+    "blueprintId": 1208,
+    "version": "published",
+    "created_at": "2022-09-09T11:19:24+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Taylor",
+    "targetMarkets": ["USA"],
+    "minPrice": 659,
+    "minPriceSubscription": 508,
+    "sizesCount": 19,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder"],
+    "tags": [
+      "Home & Living",
+      "Art & Wall Decor",
+      "Matte",
+      "Hanging Hardware",
+      "Decor",
+      "Home Decor"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "63240fe26e7da1a451053f65"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "634d0bebef697026770670f3"
+      },
+      {
+        "catalogPreview": [],
+        "src": "632412a6f0d647261307887a"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6324134339546c8d800271cc"
+      },
+      {
+        "catalogPreview": [],
+        "src": "63283b6c49b54972a401a564"
+      },
+      {
+        "catalogPreview": [],
+        "src": "63283b6c1e55c347740a1d2e"
+      },
+      {
+        "catalogPreview": [],
+        "src": "63283b6d49b54972a401a569"
+      }
+    ],
+    "model": null,
+    "name": "Foam Board",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0
+    }
+  },
+  {
+    "blueprintId": 1205,
+    "version": "published",
+    "created_at": "2022-09-09T05:53:21+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Taylor",
+    "targetMarkets": ["USA"],
+    "minPrice": 1084,
+    "minPriceSubscription": 835,
+    "sizesCount": 6,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder"],
+    "tags": ["Home & Living", "Outdoor", "Home Decor", "Made in USA"],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "6319beafdc46919053072224"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "634e88f163854d1583035708"
+      },
+      {
+        "catalogPreview": [],
+        "src": "63285cba359166fc4d0ab5fa"
+      },
+      {
+        "catalogPreview": [],
+        "src": "63286098b166a12d8600192a"
+      },
+      {
+        "catalogPreview": [],
+        "src": "63285f66e94769a7ef02ed11"
+      },
+      {
+        "catalogPreview": [],
+        "src": "632863fa7fdb191d02045673"
+      },
+      {
+        "catalogPreview": [],
+        "src": "632860a3f98e8554390f72e5"
+      },
+      {
+        "catalogPreview": [],
+        "src": "63288ad404658ec8bb0116e5"
+      }
+    ],
+    "model": null,
+    "name": "Plastic Yard Sign",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0.303,
+      "profit_margin_score": 0
+    }
+  },
+  {
+    "blueprintId": 928,
+    "version": "published",
+    "created_at": "2022-04-28T08:52:53+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Acrylic Idea Factory",
+    "targetMarkets": ["USA"],
+    "minPrice": 4584,
+    "minPriceSubscription": 3529,
+    "sizesCount": 9,
+    "colorsCount": 0,
+    "hiddenTags": [],
+    "tags": [
+      "Home & Living",
+      "Art & Wall Decor",
+      "Glossy",
+      "Indoor",
+      "Decor",
+      "Home Decor",
+      "Glass"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "62b1bd374a53b2187d0f7456"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "634977fb832bcb363a0bb2d0"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62b169c3ffe9e97b29026b5e"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62b1682e746bf129cf0d29ec"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62136ed913a9f108ee0b20d8"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62b168164a53b2187d0f7211"
+      },
+      {
+        "catalogPreview": [],
+        "src": "62136fe41cea8a50f661e2e3"
+      }
+    ],
+    "model": null,
+    "name": "Acrylic Prints (French Cleat Hanging) ",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0
+    }
+  },
+  {
+    "blueprintId": 916,
+    "version": "published",
+    "created_at": "2022-02-09T13:14:26+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Lamp In a Box",
+    "targetMarkets": ["USA"],
+    "minPrice": 3493,
+    "minPriceSubscription": 2691,
+    "sizesCount": 1,
+    "colorsCount": 10,
+    "hiddenTags": ["Full size placeholder"],
+    "tags": [
+      "Home & Living",
+      "White base",
+      "Indoor",
+      "Lamp",
+      "Decor",
+      "Home Decor"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "620e2a090117be38723cd6d5"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "6358f50ad8c9634b97002cd4"
+      },
+      {
+        "catalogPreview": [],
+        "src": "620e2a09fc4d5a6053431a53"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6215f557e8b94d6d63723244"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6220c171e8b94d6d6372423e"
+      },
+      {
+        "catalogPreview": [],
+        "src": "620e7e5c0f60036e0e423b1f"
+      }
+    ],
+    "model": null,
+    "name": "Lamp on a Stand, US|CA plug",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0
+    }
+  },
+  {
+    "blueprintId": 853,
+    "version": "published",
+    "created_at": "2022-01-13T08:22:46+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "MWW On Demand",
+    "targetMarkets": ["USA"],
+    "minPrice": 4493,
+    "minPriceSubscription": 3459,
+    "sizesCount": 2,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder"],
+    "tags": [
+      "Home & Living",
+      "Sublimation",
+      "Indoor",
+      "Home Decor",
+      "All Over Print",
+      "AOP",
+      "AOP",
+      "All Over Print"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "61f126d8b83f061a3e3694d9"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "63de72fc86f9493220045927"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61f0fd291bda4d4b8700f6b6"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61f7f4481bf51d5130692ead"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61f0fd2a6cbce33e931e1dfb"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61f0fd2a98f8695dd21f201b"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61f0fd2ccff79748a777b4aa"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61f7ff0931d55e45cf3a0ee3"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61f7fee61bf51d5130692f41"
+      }
+    ],
+    "model": null,
+    "name": "Bean Bag Chair Cover",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": -0.034,
+      "profit_margin_score": 0
+    }
+  },
+  {
+    "blueprintId": 805,
+    "version": "published",
+    "created_at": "2021-11-15T14:41:56+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Candlebuilders",
+    "targetMarkets": ["USA"],
+    "minPrice": 1747,
+    "minPriceSubscription": 1427,
+    "sizesCount": 1,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder", "Eco-friendly"],
+    "tags": [
+      "Home & Living",
+      "Eco-friendly",
+      "Eco-friendly",
+      "Decor",
+      "Bio",
+      "Home Decor",
+      "Made in USA",
+      "Assembled in the USA",
+      "Holiday Picks",
+      "Made in the USA",
+      "Assembled in USA"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": ["Home & Living", "Eco-friendly"],
+        "src": "61a4a8f758fd9832b1012b17"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "6357af1ecdc08f896a052643"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61b38322eccf4f404a6a270e"
+      },
+      {
+        "catalogPreview": [],
+        "src": "61b3832297f5ed4fae08fc63"
+      }
+    ],
+    "model": null,
+    "name": "Scented Candle, 13.75oz",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0.489
+    }
+  },
+  {
+    "blueprintId": 748,
+    "version": "published",
+    "created_at": "2021-10-18T13:04:44+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "MWW On Demand",
+    "targetMarkets": ["USA", "Europe"],
+    "minPrice": 3939,
+    "minPriceSubscription": 3179,
+    "sizesCount": 1,
+    "colorsCount": 1,
+    "hiddenTags": ["Full size placeholder"],
+    "tags": ["Home & Living", "Sublimation", "Indoor", "AOP", "Home Decor"],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "61448c40f49f033fce7f46b6"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "6346cf57da56cd8329002369"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6149cbfd70d5d800e53fa856"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6152b1959b7b3e45a87c3650"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6156efa2d1639b619f305895"
+      }
+    ],
+    "model": null,
+    "name": "Window Curtain",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0
+    }
+  },
+  {
+    "blueprintId": 629,
+    "version": "published",
+    "created_at": "2021-11-16T13:41:16+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Lamp In a Box",
+    "targetMarkets": ["USA"],
+    "minPrice": 3493,
+    "minPriceSubscription": 2691,
+    "sizesCount": 1,
+    "colorsCount": 1,
+    "hiddenTags": ["Full size placeholder"],
+    "tags": ["Home & Living", "Indoor", "Lamp", "Decor", "Home Decor"],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": ["Home Decor"],
+        "src": "60c31b1732d44772654d810f"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "6345a22582f52f52fd06213a"
+      },
+      {
+        "catalogPreview": [],
+        "src": "60bdbca66dcdd44c851cd43d"
+      },
+      {
+        "catalogPreview": [],
+        "src": "60c08e978949856723740ec3"
+      },
+      {
+        "catalogPreview": [],
+        "src": "60c32b795e89dc629146effb"
+      },
+      {
+        "catalogPreview": [],
+        "src": "619d140ed73f8c39837fd9cb"
+      }
+    ],
+    "model": null,
+    "name": "Tripod Lamp with High-Res Printed Shade, US\\CA plug",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0
+    }
+  },
+  {
+    "blueprintId": 1305,
+    "version": "published",
+    "created_at": "2023-04-13T07:59:37+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Acrylic Idea Factory",
+    "targetMarkets": ["USA"],
+    "minPrice": 1864,
+    "minPriceSubscription": 1435,
+    "sizesCount": 3,
+    "colorsCount": 0,
+    "hiddenTags": [
+      "Full size placeholder",
+      "Make specific design enabled",
+      "MOP"
+    ],
+    "tags": [
+      "Home & Living",
+      "Art & Wall Decor",
+      "Indoor",
+      "Decor",
+      "Clocks",
+      "Home Decor",
+      "Back-to-School"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "644a25e175064722a60fc1fc"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "644a219901753e3af20839b7"
+      },
+      {
+        "catalogPreview": [],
+        "src": "644a24c601753e3af20839bd"
+      },
+      {
+        "catalogPreview": [],
+        "src": "643cca4c6298f544a50bd115"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6406dead85a75076b902a032"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6406e0914afb4d81c309c537"
+      },
+      {
+        "catalogPreview": [],
+        "src": "643cddc44be6d152fd0bfe2d"
+      },
+      {
+        "catalogPreview": [],
+        "src": "643cddc42686b61fe80aefee"
+      },
+      {
+        "catalogPreview": [],
+        "src": "643cddc56298f544a50bd141"
+      }
+    ],
+    "model": null,
+    "name": "Acrylic Wall Clock",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0.371,
+      "profit_margin_score": 0.515
+    }
+  },
+  {
+    "blueprintId": 1212,
+    "version": "published",
+    "created_at": "2022-09-09T12:11:41+00:00",
+    "brandName": "Generic brand",
+    "printProviderCount": 1,
+    "printProviderName": "Taylor",
+    "targetMarkets": ["USA"],
+    "minPrice": 1225,
+    "minPriceSubscription": 944,
+    "sizesCount": 16,
+    "colorsCount": 0,
+    "hiddenTags": ["Full size placeholder"],
+    "tags": [
+      "Home & Living",
+      "Art & Wall Decor",
+      "Matte",
+      "Hanging Hardware",
+      "Decor",
+      "Home Decor"
+    ],
+    "managed_tags": [
+      {
+        "id": 1,
+        "label": "positioner update",
+        "enabled": true,
+        "visible": false,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 2,
+        "label": "T-shirts",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 3,
+        "label": "Kids' Clothing",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 4,
+        "label": "DTG",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 5,
+        "label": "Regular fit",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 6,
+        "label": "Crew neck",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 7,
+        "label": "Cotton",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 456,
+        "label": "Neck Labels",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      },
+      {
+        "id": 428,
+        "label": "Summer Picks",
+        "enabled": true,
+        "visible": true,
+        "promotional": false,
+        "rank": 10,
+        "icon": null
+      }
+    ],
+    "images": [
+      {
+        "catalogPreview": [],
+        "src": "64f9d5342be41853da075a97"
+      },
+      {
+        "catalogPreview": ["Hover Feature"],
+        "src": "64f9d4ca2be41853da075a93"
+      },
+      {
+        "catalogPreview": [],
+        "src": "64f883b9848056126f0c13bf"
+      },
+      {
+        "catalogPreview": [],
+        "src": "64f88292b6e959b44d07d4a3"
+      },
+      {
+        "catalogPreview": [],
+        "src": "64f88294b6e959b44d07d4a7"
+      },
+      {
+        "catalogPreview": [],
+        "src": "63623784051cd433200b6092"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6329b9401ec67ff7e20ad7d7"
+      },
+      {
+        "catalogPreview": [],
+        "src": "636237a5c763225f2e010970"
+      },
+      {
+        "catalogPreview": [],
+        "src": "6329b941dc7cc6b47e0c1714"
+      }
+    ],
+    "model": null,
+    "name": "Matte Banner",
+    "analytics": {
+      "review_score": 0,
+      "trending_score": 0,
+      "profit_margin_score": 0
+    }
+  }
+]
