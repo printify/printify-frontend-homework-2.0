@@ -28,6 +28,7 @@ Your task is to create a Printify blueprints page MVP version within 40 minutes
 * Get all Blueprints: http://localhost:4200/assets/blueprints.json
 * Get 1 Blueprint: http://localhost:4200/assets/single_blueprint.json
 * Get 500 error for "Get all Blueprints": https://run.mocky.io/v3/48713e9f-f176-47aa-8585-7005c278814d
+* Blueprint image https://images.printify.com/api/catalog/imageId.jpg?s=320
 
 ## Notes
 - Focus on business logic. Styles are secondary.
